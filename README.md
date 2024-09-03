@@ -1,3 +1,5 @@
 # tic-tac-toe-game
-tic tac toe game by- vrushali
 it is my first repo
+<br>
+<h1>tic tac toe game by- vrushali</h1>
+
